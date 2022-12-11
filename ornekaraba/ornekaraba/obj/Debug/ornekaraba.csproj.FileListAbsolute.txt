@@ -1,0 +1,11 @@
+C:\Users\ecemb\Desktop\quiziçintekrar\ornekaraba\ornekaraba\bin\Debug\ornekaraba.exe.config
+C:\Users\ecemb\Desktop\quiziçintekrar\ornekaraba\ornekaraba\bin\Debug\ornekaraba.exe
+C:\Users\ecemb\Desktop\quiziçintekrar\ornekaraba\ornekaraba\bin\Debug\ornekaraba.pdb
+C:\Users\ecemb\Desktop\quiziçintekrar\ornekaraba\ornekaraba\obj\Debug\ornekaraba.csproj.AssemblyReference.cache
+C:\Users\ecemb\Desktop\quiziçintekrar\ornekaraba\ornekaraba\obj\Debug\ornekaraba.csproj.SuggestedBindingRedirects.cache
+C:\Users\ecemb\Desktop\quiziçintekrar\ornekaraba\ornekaraba\obj\Debug\ornekaraba.Form1.resources
+C:\Users\ecemb\Desktop\quiziçintekrar\ornekaraba\ornekaraba\obj\Debug\ornekaraba.Properties.Resources.resources
+C:\Users\ecemb\Desktop\quiziçintekrar\ornekaraba\ornekaraba\obj\Debug\ornekaraba.csproj.GenerateResource.cache
+C:\Users\ecemb\Desktop\quiziçintekrar\ornekaraba\ornekaraba\obj\Debug\ornekaraba.csproj.CoreCompileInputs.cache
+C:\Users\ecemb\Desktop\quiziçintekrar\ornekaraba\ornekaraba\obj\Debug\ornekaraba.exe
+C:\Users\ecemb\Desktop\quiziçintekrar\ornekaraba\ornekaraba\obj\Debug\ornekaraba.pdb
